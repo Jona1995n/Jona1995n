@@ -1,4 +1,4 @@
-<img width="471" alt="Header" src="https://user-images.githubusercontent.com/79124628/137929035-da472636-e409-43a4-aa32-bd3fa9eb5059.png">
+<img width="1000" alt="Header" src="https://user-images.githubusercontent.com/79124628/137929035-da472636-e409-43a4-aa32-bd3fa9eb5059.png">
 
 # Hi, Im Jonathan 👋
 
