@@ -1,10 +1,20 @@
-# Hi, Im Jonathan 👋
-
- <h5 align="center">
+<h3 align="center">Hello, <a href="https://portfolio-site-woad-iota.vercel.app/" title="Profile" target="_blank">I'm Jonathan 👋</a> 👋</h3>
+<br>
+<p align="center">
+  🍎 I am an iOS Developer
+  <br>
+  💻  Im a passionate iOS software engineer!! growing and learning everyday with the high hopes to one day be a great impact to technology.
+  <br>
+  📫 How to reach me: <a href="mailto: jonathannunez16@gmail.com">jonathannunez16@gmail.com</a>
+  
+   <h5 align="center">
     <code><a href="https://www.linkedin.com/in/jonathan-nunez-/"><img width="22" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"> LinkedIn </a></code>
   </h5>
+</p>
 
-Im a passionate iOS software engineer!! growing and learning everyday with the high hopes to one day be a great impact to technology.
+
+
+
 
 <div style="display:flex;">
 <p align=center>
