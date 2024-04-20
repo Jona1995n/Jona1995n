@@ -3,7 +3,7 @@
 <p align="center">
   🍎 I am an iOS Developer
   <br>
-  💻  Im a passionate iOS software engineer!! growing and learning everyday with the high hopes to one day be a great impact to technology.
+  💻  Im a passionate iOS software engineer!! growing and learning everyday.
   <br>
   📫 How to reach me: <a href="mailto: jonathannunez16@gmail.com">jonathannunez16@gmail.com</a>
   
