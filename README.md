@@ -1,4 +1,4 @@
-<h3 align="center">I'm Jonathan 👋</a> 👋</h3>
+<h3 align="center">Hello, I'm Jonathan 👋</a> 👋</h3>
 <br>
 <p align="center">
   🍎 iOS Engineer
