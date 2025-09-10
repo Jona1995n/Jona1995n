@@ -2,9 +2,6 @@
 <br>
 <p align="center">
   🍎 Software Engineer
-  <br>
-  💻  Im a passionate Software Engineer!! growing and learning everyday.
-  <br>
   📫 How to reach me: <a href="mailto: jonathannunez16@gmail.com">jonathannunez16@gmail.com</a>
   
    <h5 align="center">
