@@ -2,6 +2,7 @@
 <br>
 <p align="center">
   🍎 Software Engineer
+  <br>
   📫 How to reach me: <a href="mailto: jonathannunez16@gmail.com">jonathannunez16@gmail.com</a>
   
    <h5 align="center">
